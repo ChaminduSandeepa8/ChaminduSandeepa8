@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Chamindu Sandeepa! 👋
 
-<!--
-**ChaminduSandeepa8/ChaminduSandeepa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student passionately exploring the fields of **Artificial Intelligence, Machine Learning, and Deep Learning**. I love building intelligent systems, data-driven applications, and working heavily with Python.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🧠 Currently diving deep into Neural Networks and Deep Learning architectures.
+- 🐍 Passionate about Python development, clean code, and automation.
+- 💻 Focus areas include predictive modeling, core ML algorithms, and data analysis.
+- 🤝 Open to collaborating on open-source AI/ML and Python projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, Java
+- **AI/ML:** Machine Learning, Deep Learning, Neural Networks
+- **Tools & Platforms:** Git, GitHub, Miniconda / Anaconda
+
+### 📊 GitHub Stats
+![Chamindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaminduSandeepa8&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaminduSandeepa8&layout=compact&theme=dark)
