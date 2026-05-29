@@ -9,10 +9,15 @@ I am an undergraduate student passionately exploring the fields of **Artificial 
 - 🤝 Open to collaborating on open-source AI/ML and Python projects.
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Python, Java
-- **AI/ML:** Machine Learning, Deep Learning, Neural Networks
-- **Tools & Platforms:** Git, GitHub, Miniconda / Anaconda
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ### 📊 GitHub Stats
-![Chamindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaminduSandeepa8&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaminduSandeepa8&layout=compact&theme=dark)
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=ChaminduSandeepa8&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
